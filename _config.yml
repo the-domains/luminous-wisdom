@@ -1,4 +1,3 @@
-layout_spectrum: 0.7883115792647004
 typography_spectrum: 0.06059729680418968
 color:
   brandStrength: 0.7023835887666792
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.7883115792647004
 name: luminous wisdom
 title: Light Up Your Life
+description: Positive Outlook
