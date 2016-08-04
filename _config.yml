@@ -1,0 +1,14 @@
+layout_spectrum: 0.7883115792647004
+typography_spectrum: 0.06059729680418968
+color:
+  brandStrength: 0.7023835887666792
+  lightness: 0.8797416831366718
+  saturation: 0.7291863418649882
+  rhythmicContrast: 0.20873263012617826
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: luminous wisdom
